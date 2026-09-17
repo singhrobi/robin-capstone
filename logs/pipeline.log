@@ -1,0 +1,22 @@
+{"ts": 1789227851.041, "level": "INFO", "msg": "config: {'questions_csv': 'data\\\\questions.csv', 'results_json': 'results.json', 'results_db': 'results.db', 'batch_size': 5, 'fail_rate': 0.0, 'model': 'gpt-4o-mini', 'use_fake': True}", "logger": "pipeline"}
+{"ts": 1789227946.946, "level": "INFO", "msg": "config: {'questions_csv': 'data\\\\questions.csv', 'results_json': 'results.json', 'results_db': 'results.db', 'batch_size': 5, 'fail_rate': 0.0, 'model': 'gpt-4o-mini', 'use_fake': True}", "logger": "pipeline"}
+{"ts": 1789229574.325, "level": "INFO", "msg": "config: {'questions_csv': 'data\\\\questions.csv', 'results_json': 'results.json', 'results_db': 'results.db', 'batch_size': 5, 'fail_rate': 0.0, 'model': 'gpt-4o-mini', 'use_fake': True}", "logger": "pipeline"}
+{"ts": 1789229741.854, "level": "INFO", "msg": "config: {'questions_csv': '..\\\\data\\\\questions.csv', 'results_json': 'results.json', 'results_db': 'results.db', 'batch_size': 5, 'fail_rate': 0.0, 'model': 'gpt-4o-mini', 'use_fake': True}", "logger": "pipeline"}
+{"ts": 1789229770.088, "level": "INFO", "msg": "config: {'questions_csv': '..\\\\data\\\\questions.csv', 'results_json': 'results.json', 'results_db': 'results.db', 'batch_size': 5, 'fail_rate': 0.0, 'model': 'gpt-4o-mini', 'use_fake': True}", "logger": "pipeline"}
+{"ts": 1789229846.896, "level": "INFO", "msg": "config: {'questions_csv': 'src\\\\data\\\\questions.csv', 'results_json': 'results.json', 'results_db': 'results.db', 'batch_size': 5, 'fail_rate': 0.0, 'model': 'gpt-4o-mini', 'use_fake': True}", "logger": "pipeline"}
+{"ts": 1789229846.943, "level": "INFO", "msg": "loaded 0 questions", "logger": "pipeline"}
+{"ts": 1789229846.954, "level": "INFO", "msg": "summary: {\"started_at\":1789229846.9436922,\"elapsed_seconds\":0.010436773300170898,\"n_questions\":0,\"n_succeeded\":0,\"n_retries_total\":0,\"total_cost_usd\":0.0,\"fail_rate\":0.0,\"use_fake\":true}", "logger": "pipeline"}
+{"ts": 1789647205.853, "level": "INFO", "msg": "asked: Why might an LLM hallucinate?", "logger": "pipeline"}
+{"ts": 1789647206.385, "level": "INFO", "msg": "asked: Name three uses of vector databases.", "logger": "pipeline"}
+{"ts": 1789647206.839, "level": "INFO", "msg": "asked: What is RAG in one sentence?", "logger": "pipeline"}
+{"ts": 1789647252.436, "level": "INFO", "msg": "asked: What is RAG in one sentence?", "logger": "pipeline"}
+{"ts": 1789647252.687, "level": "INFO", "msg": "asked: Name three uses of vector databases.", "logger": "pipeline"}
+{"ts": 1789647286.301, "level": "INFO", "msg": "asked: Name three uses of vector databases.", "logger": "pipeline"}
+{"ts": 1789647374.378, "level": "INFO", "msg": "asked: Why might an LLM hallucinate?", "logger": "pipeline"}
+{"ts": 1789647374.394, "level": "WARNING", "msg": "retry 1 for: What is RAG in one sentence? (simulated transient failure for: What is RAG in one sentence?)", "logger": "pipeline"}
+{"ts": 1789647374.546, "level": "INFO", "msg": "asked: Name three uses of vector databases.", "logger": "pipeline"}
+{"ts": 1789647375.851, "level": "INFO", "msg": "asked: What is RAG in one sentence?", "logger": "pipeline"}
+{"ts": 1789647939.665, "level": "INFO", "msg": "config: {'questions_csv': 'src\\\\data\\\\questions.csv', 'results_json': 'results.json', 'results_db': 'results.db', 'batch_size': 5, 'fail_rate': 0.0, 'model': 'gpt-4o-mini', 'use_fake': True}", "logger": "pipeline"}
+{"ts": 1789647940.387, "level": "INFO", "msg": "asked: Name three uses of vector databases.", "logger": "pipeline"}
+{"ts": 1789647940.466, "level": "INFO", "msg": "asked: What is RAG in one sentence?", "logger": "pipeline"}
+{"ts": 1789647940.878, "level": "INFO", "msg": "asked: Why might an LLM hallucinate?", "logger": "pipeline"}
