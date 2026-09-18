@@ -257,3 +257,14 @@
 {"ts": 1789666445.744, "level": "INFO", "msg": "summary: {\"started_at\":1789666444.246683,\"elapsed_seconds\":1.4971940517425537,\"n_questions\":20,\"n_succeeded\":20,\"n_retries_total\":0,\"total_cost_usd\":0.002,\"fail_rate\":0.0,\"use_fake\":true}", "logger": "pipeline"}
 {"ts": 1789666445.744, "level": "INFO", "msg": "summary: {\"started_at\":1789666444.246683,\"elapsed_seconds\":1.4971940517425537,\"n_questions\":20,\"n_succeeded\":20,\"n_retries_total\":0,\"total_cost_usd\":0.002,\"fail_rate\":0.0,\"use_fake\":true}", "logger": "pipeline"}
 {"ts": 1789666445.77, "level": "INFO", "msg": "persisted run 5 with 20 answers to results.db", "logger": "pipeline"}
+{"ts": 1789674688.182, "level": "INFO", "msg": "asked: What is the leave policy?", "logger": "pipeline"}
+{"ts": 1789675350.317, "level": "INFO", "msg": "asked: string", "logger": "pipeline"}
+{"ts": 1789676685.808, "level": "INFO", "msg": "asked: What is the leave policy?", "logger": "pipeline"}
+{"ts": 1789677195.796, "level": "INFO", "msg": "asked: What is the leave policy?", "logger": "pipeline"}
+{"ts": 1789677216.178, "level": "INFO", "msg": "asked: What is the leave policy?", "logger": "pipeline"}
+{"ts": 1789677229.719, "level": "INFO", "msg": "asked: What is the leave policy?", "logger": "pipeline"}
+{"ts": 1789678451.936, "level": "INFO", "msg": "asked: What is leave policy", "logger": "pipeline"}
+{"ts": 1789678459.495, "level": "INFO", "msg": "asked: What is leave policy?", "logger": "pipeline"}
+{"ts": 1789711946.203, "level": "INFO", "msg": "asked: What is the leave policy?", "logger": "pipeline"}
+{"ts": 1789711962.169, "level": "INFO", "msg": "asked: How does the procurement approval proces", "logger": "pipeline"}
+{"ts": 1789711990.732, "level": "INFO", "msg": "asked: What's the policy on bringing pets to th", "logger": "pipeline"}
